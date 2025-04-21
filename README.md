@@ -1,4 +1,4 @@
-#### Repo :[Link](https://github.com/gigachad80/OSINT)
+#### Repo : [Link](https://github.com/gigachad80/OSINT)
 - Contrib : Fixed minor spelling mistake 
 - PR Status : Merged🔃 💚
 
